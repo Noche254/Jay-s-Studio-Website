@@ -17,7 +17,7 @@
 .home{
     margin-top: 150px;
 }
-.orangge{
+.orange{
     color: orangered;
 }
 .border-n{
@@ -31,4 +31,11 @@
     margin-top: 20px;
     border-radius: 8px;
     color: antiquewhite;
+}
+.about-img img{
+    border-radius: 160px;
+    width: 150px;
+    height:150px;
+    margin-left: 20px;
+    cursor: pointer;
 }
