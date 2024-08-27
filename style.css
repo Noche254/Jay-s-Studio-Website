@@ -48,3 +48,9 @@
     margin-left: 20px;
     cursor: pointer;
 }
+
+footer{
+    background-color: #efeff0;
+    padding: 2pX;
+    text-align: center;
+}
